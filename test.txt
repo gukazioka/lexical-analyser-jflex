@@ -1,0 +1,10 @@
+procedure TestTheProgram;
+var
+    TestVar: Integer;
+    TestName: String;
+    TestDouble: Double;
+begin
+    TestVar := TestVar + 1;
+    TestName := 'Testing the jflex';
+    Double := 3.0;
+end;
